@@ -117,7 +117,7 @@ Potential extensions include:
 * Comparing convergence speed and training stability
 * Investigating normalization behavior under different batch sizes
 * Benchmarking computational overhead
-* Extending the implementation to additional normalization techniques
+* Extending the implementation to additional normalization techniques.
 
 ## References
 
